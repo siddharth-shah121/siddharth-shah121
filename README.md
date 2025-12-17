@@ -7,5 +7,5 @@
 <h3 align="center">Languages I've Used</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,cpp,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,kotlin&theme=dark" />
 </p>
