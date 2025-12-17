@@ -1,5 +1,11 @@
-<h1 align="center">👋 Hi, my name is Siddharth Shah</h1>
+<h1 align="center">👋 Hi, my name is Sid</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-shah121&layout=compact&langs_count=10&title_color=00ff99&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=450&lines=Programmer;FTC+Robotics;Always+Learning;Code.+Build.+Compete." />
+</p>
+
+<h3 align="center">Languages I've Used</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,kotlin&theme=dark" />
 </p>
