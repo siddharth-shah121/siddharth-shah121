@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,kotlin,markdown&theme=dark" />
 </p>
-<h3 align="center">Fun creations/h3>
+<h3 align="center">Fun creations</h3>
 
 <p align= "center"><a href="https://siddharth-shah121.github.io/GPACalculator/">GPA calculator</a>
 </p>
