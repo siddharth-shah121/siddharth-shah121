@@ -17,5 +17,5 @@
 </p>
 <p align= "center"><a href="https://siddharth-shah121.github.io/web/">Personal Website</a>
 </p>
-<p align= "center"><a href="https://siddharth-shah121.github.io/SidLogcats/">Logcat tutorial for FTC/a>
+<p align= "center"><a href="https://siddharth-shah121.github.io/SidLogcats/">Logcat tutorial for FTC</a>
 </p>
