@@ -1,3 +1,4 @@
+<h1 align="center">👋 Hi, I'm Sid Shah</h1>
 # 💫 About Me:
 Programmer on FTC 13100, alumni FTC 24163<br><br>Freshman in high school, Maryland, USA<br><br>Friendly guy, I don't bite
 
