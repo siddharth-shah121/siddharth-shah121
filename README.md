@@ -12,7 +12,5 @@ Programmer on FTC 13100, alumni FTC 24163<br><br>Freshman in high school, Maryla
 ![](https://nirzak-streak-stats.vercel.app/?user=siddharth-shah121&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-shah121&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siddharth-shah121&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
