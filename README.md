@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋 I'm Sid, Dreaming of <a href="https://github.com/index47ftc/index47" target="_blanK">Index47</h1>
+<h1 align="left">Hi 👋 I'm Sid</h1>
+<h2>Dreaming of <a href="https://github.com/index47ftc/index47" target="_blanK">Index47</h2>
 
 ###
 
