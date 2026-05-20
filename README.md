@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋 I'm Sid, Dreaming of <a href="index47ftc.github.io/index47/" target="_blanK">Index47</h1>
+<h1 align="left">Hi 👋 I'm Sid, Dreaming of <a href="https://github.com/index47ftc/index47" target="_blanK">Index47</h1>
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning advanced Finite State Machines<br>🎯 Goals: preapre for next FTC season!<br>🎲 Fun fact: I'm a friendly guy; I don't bite</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning various Finite State Machines<br>🎯 Goals: preapre for next FTC season!<br>🎲 Fun fact: I'm a friendly guy; I don't bite</p>
 
 ###
 
