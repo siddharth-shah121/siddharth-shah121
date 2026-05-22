@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋 I'm Sid</h1>
 <h2>💭 Dreaming of <a href="https://github.com/index47ftc/index47" target="_blank">Index47</a></h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=1002&color=0EF7AB&background=FF57B500&center=true&width=435&lines=47+Beavers;NextFTC;Illuminate;Index47;Limelight;Pedropathing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=1002&color=0EF7AB&background=FF57B500&center=false&width=435&lines=47+Beavers;NextFTC;Illuminate;Index47;Limelight;Pedropathing)](https://git.io/typing-svg)
 
 ###
 
